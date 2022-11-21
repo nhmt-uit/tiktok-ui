@@ -1,6 +1,6 @@
 // Layouts
-import { DefaultLayout } from '~/components/Layout';
-import { HeaderOnly } from '~/components/Layout';
+import { DefaultLayout } from '~/components/Layouts';
+import { HeaderOnly } from '~/components/Layouts';
 
 // Search
 import Home from '~/pages/Home';
